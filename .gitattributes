@@ -1,0 +1,3 @@
+public/images/**/*.png filter=lfs diff=lfs merge=lfs -png
+public/images/**/*.jpg filter=lfs diff=lfs merge=lfs -jpg
+
