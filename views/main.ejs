@@ -6,26 +6,25 @@
     <script src="/js/bootstrap.min.js"></script>
     <link rel="stylesheet" type="text/css" href="/css/bootstrap.min.css">
 </head>
-<body style="padding: 10px">
-<hr>
-<div class="container" style="text-align: center">
-    <img src="/logo.png" height="100" style="margin: 10px;">
-    <img src="/logo.png" height="100" style="margin: 10px;">
-    <img src="/logo.png" height="100" style="margin: 10px;">
+<body style="background-color: black; padding: 10px">
+<div class="container text-center text-white">
+    <h1>מכירת טרום המעבר של משפחת ברנע</h1>
 </div>
-<hr>
 <div class="" style="display: flex; flex-wrap: wrap; padding: 20px; direction: rtl; text-align: center">
     <% for (var i = 0; i < items.length; i++) { %>
     <div class="card" style="width: 18rem; margin: 5px; flex-grow: 1">
-        <a href="/<%=items[i].image%>" target="_blank" style="width: 100%; height: 15rem; overflow: hidden; background-image: url('/<%=items[i].image%>'); background-repeat: no-repeat; background-size: contain; background-position: center; background-color: aliceblue"></a>
+        <a href="/<%=items[i].image%>" target="_blank" style="width: 100%; height: 15rem; overflow: hidden; background-image: url('/small/<%=items[i].image%>'); background-repeat: no-repeat; background-size: contain; background-position: center; background-color: aliceblue"></a>
         <div class="card-body">
             <h5 class="card-title"><%=items[i].title%></h5>
             <hr>
-            <div class="badge badge-pill badge-info"><%=items[i].price%></div>
-            <div class="badge badge-pill badge-info"><%=items[i].readyAt%></div>
+            <div class="badge badge-info" style="font-size: 1rem"><%=items[i].price%></div>
+            <div class="badge badge-warning" style="font-size: 1rem"><%=items[i].readyAt%></div>
             <hr>
             <% for (var j = 0; j < items[i].text.length; j++) { %>
             <p class="card-text text-right"><%=items[i].text[j]%></p>
+            <% } %>
+            <% if (items[i].hasOwnProperty("link")) {%>
+                <a href="<%=items[i].link%>" target="_blank"><div class="badge badge-secondary">מקור</div> </a>
             <% } %>
         </div>
     </div>

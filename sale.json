@@ -3,7 +3,7 @@
     {
       "title": "פינת אוכל",
       "image": "dinning_table.png",
-      "price": "200 ש\"ח",
+      "price": "200 ש''ח",
       "readyAt": "למכירה במאי",
       "text": [
         "פינת אוכל נפתחת של איקאה",
@@ -43,9 +43,9 @@
       "price": "200 ש''ח",
       "readyAt": "למכירה במאי",
       "text": [
-        "ארון דלת זכוכית של איקאה - צבע שחור-חום",
-        "https://ikea.co.il/catalogue/Store_and_organise_furniture/Display_cabinets/80269122"
-      ]
+        "ארון דלת זכוכית של איקאה - צבע שחור-חום"
+      ],
+      "link": "https://ikea.co.il/catalogue/Store_and_organise_furniture/Display_cabinets/80269122"
     },
     {
       "title": "משקאות אלכוהול - בקבוקים סוגרים",
@@ -196,12 +196,12 @@
         "ארונית למכונת כביסה",
         "גובה ברוטו - 190 ס''מ",
         "גובה ארון - 100 ס''מ",
-        "רוחב תא למכונת כביסה - 60 ס''מ",
-        "https://ikea.co.il/catalogue/Bathroom/Bathroom_furniture/00206096"
-      ]
+        "רוחב תא למכונת כביסה - 60 ס''מ"
+      ],
+      "link": "https://ikea.co.il/catalogue/Bathroom/Bathroom_furniture/00206096"
     },
     {
-      "title": "שולחן כתיבת איקאה",
+      "title": "שולחן כתיבה/עבודה איקאה",
       "image":  "ikea_table_1.jpg",
       "price": "100 ש''ח",
       "readyAt": "למכירה במאי",
@@ -214,7 +214,7 @@
       ]
     },
     {
-      "title": "שולחן כתיבת איקאה פינתי",
+      "title": "שולחן כתיבה/עבודה איקאה פינתי",
       "image":  "ikea_table_2.jpg",
       "price": "100 ש''ח",
       "readyAt": "למכירה במאי",
@@ -247,9 +247,9 @@
         "שידת מגירות גדולה דגם MALM",
         "גובה - 78 ס''מ",
         "רוחב - 80 ס''מ",
-        "עומק - 48 ס''מ",
-        "https://ikea.co.il/catalogue/Bedroom_furniture/Chest_of_drawers/20403562"
-      ]
+        "עומק - 48 ס''מ"
+      ],
+      "link": "https://ikea.co.il/catalogue/Bedroom_furniture/Chest_of_drawers/20403562"
     },
     {
       "title": "כיסא בטיחות צי'קו",
@@ -278,9 +278,9 @@
       "price": "700 ש''ח",
       "readyAt": "למכירה במיידי",
       "text": [
-        "שידת החתחלה רחבה",
-        "http://www.talbaby.co.il/items/1983249-%D7%A9%D7%99%D7%93%D7%94-%D7%93%D7%92%D7%9D-%D7%91%D7%99%D7%9C%D7%99"
-      ]
+        "שידת החתחלה רחבה"
+      ],
+      "link": "http://www.talbaby.co.il/items/1983249-%D7%A9%D7%99%D7%93%D7%94-%D7%93%D7%92%D7%9D-%D7%91%D7%99%D7%9C%D7%99"
     },
     {
       "title": "מיטת תינוק - רהיטי טל",
@@ -288,11 +288,19 @@
       "price": "400 ש''ח",
       "readyAt": "למכירה במיידי",
       "text": [
-        "מיטת תינוק גדולה",
-        "http://www.talbaby.co.il/items/1983287-%D7%9E%D7%99%D7%98%D7%94-%D7%93%D7%92%D7%9D-%D7%92%D7%9C"
+        "מיטת תינוק גדולה"
+      ],
+      "link": "http://www.talbaby.co.il/items/1983287-%D7%9E%D7%99%D7%98%D7%94-%D7%93%D7%92%D7%9D-%D7%92%D7%9C"
+    },
+    {
+      "title": "גוגל הום מיני",
+      "image":  "google_home.png",
+      "price": "50 ש''ח ליחידה",
+      "readyAt": "למכירה במיידי",
+      "text": [
+        "גוגל הום מיני"
       ]
     }
-
   ]
 
 }
