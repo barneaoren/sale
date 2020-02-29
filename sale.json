@@ -48,11 +48,12 @@
       "link": "https://ikea.co.il/catalogue/Store_and_organise_furniture/Display_cabinets/80269122"
     },
     {
-      "title": "משקאות אלכוהול - בקבוקים סוגרים",
+      "title": "משקאות אלכוהול",
       "image": "alcohol.png",
       "price": "80 ש''ח לבקבוק",
       "readyAt": "למכירה במיידי",
       "text": [
+        "בקבוקים סגורים",
         "- ג'ק דניאלס 1 ליטר",
         "- ג'ק דניאלס - טנסי - 1 ליטר",
         "- ג'וני וורק רד לייבל 1 ליטר",
@@ -273,21 +274,23 @@
       ]
     },
     {
-      "title": "שידת החתלה - רהיטי טל",
+      "title": "שידת החתלה",
       "image":  "shida_baby.png",
       "price": "700 ש''ח",
       "readyAt": "למכירה במיידי",
       "text": [
+        "רהיטי טל",
         "שידת החתחלה רחבה"
       ],
       "link": "http://www.talbaby.co.il/items/1983249-%D7%A9%D7%99%D7%93%D7%94-%D7%93%D7%92%D7%9D-%D7%91%D7%99%D7%9C%D7%99"
     },
     {
-      "title": "מיטת תינוק - רהיטי טל",
+      "title": "מיטת תינוק",
       "image":  "bed_baby.png",
       "price": "400 ש''ח",
       "readyAt": "למכירה במיידי",
       "text": [
+        "רהיטי טל",
         "מיטת תינוק גדולה"
       ],
       "link": "http://www.talbaby.co.il/items/1983287-%D7%9E%D7%99%D7%98%D7%94-%D7%93%D7%92%D7%9D-%D7%92%D7%9C"
