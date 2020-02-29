@@ -7,10 +7,7 @@
     "url": "https://github.com/barneaoren/sale"
   },
   "main": "main.js",
-  "scripts": {
-    "prestart": "nom install",
-    "start": "node main"
-  },
+  "scripts": {},
   "author": "Orne Barnea",
   "license": "ISC",
   "dependencies": {
