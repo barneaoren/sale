@@ -9,15 +9,15 @@
 <body style="padding: 10px">
 <hr>
 <div class="container" style="text-align: center">
-    <img src="./images/logo.png" height="100" style="margin: 10px;">
-    <img src="./images/logo.png" height="100" style="margin: 10px;">
-    <img src="./images/logo.png" height="100" style="margin: 10px;">
+    <img src="/logo.png" height="100" style="margin: 10px;">
+    <img src="/logo.png" height="100" style="margin: 10px;">
+    <img src="/logo.png" height="100" style="margin: 10px;">
 </div>
 <hr>
 <div class="" style="display: flex; flex-wrap: wrap; padding: 20px; direction: rtl; text-align: center">
     <% for (var i = 0; i < items.length; i++) { %>
     <div class="card" style="width: 18rem; margin: 5px; flex-grow: 1">
-        <a href="./images/<%=items[i].image%>" target="_blank" style="width: 100%; height: 15rem; overflow: hidden; background-image: url('./images/<%=items[i].image%>'); background-repeat: no-repeat; background-size: contain; background-position: center; background-color: aliceblue"></a>
+        <a href="/<%=items[i].image%>" target="_blank" style="width: 100%; height: 15rem; overflow: hidden; background-image: url('/<%=items[i].image%>'); background-repeat: no-repeat; background-size: contain; background-position: center; background-color: aliceblue"></a>
         <div class="card-body">
             <h5 class="card-title"><%=items[i].title%></h5>
             <hr>
