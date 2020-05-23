@@ -70,15 +70,6 @@
       ]
     },
     {
-      "title": "מדפסת משולבת",
-      "image": "brother_printer.png",
-      "price": "200 ש''ח",
-      "readyAt": "now",
-      "text": [
-        "Brother 2700dw All In One"
-      ]
-    },
-    {
       "title": "מקרר 490 ליטר",
       "image": "refrigirator.png",
       "price": "1500 ש''ח",
@@ -89,15 +80,6 @@
         "גובה 170 ס''מ",
         "מקפיא - 140 ליטר",
         "מקרר - 350 ליטר"
-      ]
-    },
-    {
-      "title": "תמי 4",
-      "image": "tami4.png",
-      "price": "250 ש''ח",
-      "readyAt": "june",
-      "text": [
-        "צבע שמנת"
       ]
     },
     {

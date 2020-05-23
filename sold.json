@@ -62,6 +62,24 @@
         "עומק 18 ס''מ",
         "גובה 22 ס''מ"
       ]
+    },
+    {
+      "title": "מדפסת משולבת",
+      "image": "brother_printer.png",
+      "price": "200 ש''ח",
+      "readyAt": "now",
+      "text": [
+        "Brother 2700dw All In One"
+      ]
+    },
+    {
+      "title": "תמי 4",
+      "image": "tami4.png",
+      "price": "250 ש''ח",
+      "readyAt": "june",
+      "text": [
+        "צבע שמנת"
+      ]
     }
   ]
 }
