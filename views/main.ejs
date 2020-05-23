@@ -16,6 +16,7 @@
     <style>
         body {
             background-color: black; padding: 10px;
+            padding-top: 80px;
         }
         .sale-container {
             display: flex;
@@ -29,9 +30,13 @@
             width: 18rem;
             margin: 5px;
         }
-        @media screen and (max-width: 600px) {
+        @media screen and (max-width: 990px) {
             .card {
                 flex-grow: 1
+            }
+            body {
+
+    padding-top: 160px;
             }
         }
 
@@ -53,7 +58,7 @@
     </style>
 </head>
 <body>
-<nav class="pull-right navbar navbar-expand-lg navbar-light bg-light navbar-right">
+<nav class="pull-right navbar fixed-top navbar-expand-lg navbar-light bg-light navbar-right">
   <a class="navbar-brand" href="#">מכירת החצר של משפחת ברנע</a>
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="true" aria-label="Toggle navigation">
     <span class="navbar-toggler-icon"></span>
