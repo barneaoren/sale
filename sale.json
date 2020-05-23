@@ -4,7 +4,7 @@
       "title": "פינת אוכל + 8 כסאות",
       "image": "dinning_table.png",
       "price": "1200 ש''ח",
-      "readyAt": "may",
+      "readyAt": "june",
       "text": [
         "פינת אוכל נפתחת של איקאה",
         "אורך 140 / 180 / 220",
@@ -29,7 +29,7 @@
       "title": "ספת סלון ר' + כריות",
       "image": "salon.png",
       "price": "1000 ש''ח",
-      "readyAt": "may",
+      "readyAt": "june",
       "text": [
         "ספת ר' אפור עכבר",
         "צלע קצרה - 230 ס''מ",
@@ -41,28 +41,25 @@
       ]
     },
     {
+      "title": "ריהוט מרפסת - איקאה",
+      "image": "balcony.jpg",
+      "price": "1500 ש''ח",
+      "readyAt": "now",
+      "text": [
+        "ריהוט מרפסת איקאה",
+        "סך הכל 6 מושבים"
+      ],
+      "link": "https://ikea.co.il/catalogue/Outdoor/Outdoor_lounge_furniture/39260940"
+    },
+    {
       "title": "ארון דלת זכוכית איקאה",
       "image": "80269122_1_Enlarge.jpg",
       "price": "200 ש''ח",
-      "readyAt": "may",
+      "readyAt": "now",
       "text": [
         "ארון דלת זכוכית של איקאה - צבע שחור-חום"
       ],
       "link": "https://ikea.co.il/catalogue/Store_and_organise_furniture/Display_cabinets/80269122"
-    },
-    {
-      "title": "משקאות אלכוהול",
-      "image": "alcohol.png",
-      "price": "80 ש''ח לבקבוק",
-      "readyAt": "now",
-      "text": [
-        "בקבוקים סגורים",
-        "- ג'ק דניאלס 1 ליטר",
-        "- ג'ק דניאלס - טנסי - 1 ליטר",
-        "- ג'וני וורק רד לייבל 1 ליטר",
-        "- בושמילס 1 ליטר",
-        "- שיבאס 12 שנה 1 ליטר"
-      ]
     },
     {
       "title": "כוסות אלכוהול",
@@ -100,7 +97,7 @@
       "title": "מקרר 490 ליטר",
       "image": "refrigirator.png",
       "price": "1500 ש''ח",
-      "readyAt": "may",
+      "readyAt": "june",
       "text": [
         "רוחב 78 ס''מ",
         "עומק 70 ס''מ",
@@ -112,8 +109,8 @@
     {
       "title": "תמי 4",
       "image": "tami4.png",
-      "price": "300 ש''ח",
-      "readyAt": "may",
+      "price": "250 ש''ח",
+      "readyAt": "june",
       "text": [
         "צבע שמנת"
       ]
@@ -122,7 +119,7 @@
       "title": "מכונת נספרסו + מקציף",
       "image": "nespresso.png",
       "price": "450 ש''ח",
-      "readyAt": "may",
+      "readyAt": "june",
       "text": [
         "מכונת נספרסו דגם פיקסי",
         "צבע אדום",
@@ -132,8 +129,8 @@
     {
       "title": "טוסטר אובן פיילוט",
       "image": "toaster_oven.png",
-      "price": "50 ש''ח",
-      "readyAt": "may",
+      "price": "20 ש''ח",
+      "readyAt": "june",
       "text": [
         "טוסטר אובן פיילוט",
         "רוחב 40 ס''מ",
@@ -144,8 +141,8 @@
     {
       "title": "טוסטר צנימים פיילוט",
       "image": "toaster.png",
-      "price": "50 ש''ח",
-      "readyAt": "may",
+      "price": "20 ש''ח",
+      "readyAt": "june",
       "text": [
         "טוסטר צנימים רחב"
       ]
@@ -153,8 +150,8 @@
     {
       "title": "מיקרוגל LG",
       "image": "microwave.png",
-      "price": "150 ש''ח",
-      "readyAt": "may",
+      "price": "100 ש''ח",
+      "readyAt": "june",
       "text": [
         "מיקרוגל LG",
         "רוחב 45 ס''מ",
@@ -163,29 +160,10 @@
       ]
     },
     {
-      "title": "מיקסר KMix",
-      "image": "kmix.png",
-      "price": "600 ש''ח",
-      "readyAt": "may",
-      "text": [
-        "מיקסר KMix ורוד",
-        "כולל וו גיטרה, וו ליש ומקציף"
-      ]
-    },
-    {
-      "title": "שייקר סמוראי",
-      "image": "samurai_shaker.png",
-      "price": "200 ש''ח",
-      "readyAt": "now",
-      "text": [
-        "מכין שייקים של חברת סמוראי"
-      ]
-    },
-    {
       "title": "מכונת כביסה 8 ק''ג",
       "image":  "washing_machine.jpg",
       "price": "1500 ש''ח",
-      "readyAt": "may",
+      "readyAt": "june",
       "text": [
         "מכונת כביסה של חברת קונסטרוקטה",
         "יכולת כיבוס עד 8 ק''ג"
@@ -195,7 +173,7 @@
       "title": "ארונית למכונת כביסה",
       "image":  "washing_machine_closet.jpg",
       "price": "100 ש''ח",
-      "readyAt": "may",
+      "readyAt": "june",
       "text": [
         "ארונית למכונת כביסה",
         "גובה ברוטו - 190 ס''מ",
@@ -208,7 +186,7 @@
       "title": "שולחן כתיבה/עבודה איקאה",
       "image":  "ikea_table_1.jpg",
       "price": "100 ש''ח לשולחן",
-      "readyAt": "may",
+      "readyAt": "june",
       "text": [
         "שולחן כתיבה/עבודה איקאה",
         "גובה - 74 ס''מ",
@@ -221,7 +199,7 @@
       "title": "שולחן כתיבה/עבודה איקאה פינתי",
       "image":  "ikea_table_2.jpg",
       "price": "100 ש''ח",
-      "readyAt": "may",
+      "readyAt": "june",
       "text": [
         "שולחן כתיבה/עבודה איקאה פינתי",
         "גובה - 74 ס''מ",
@@ -234,7 +212,7 @@
       "title": "ארון בגדים ותלייה - איקאה",
       "image":  "aron_1.jpg",
       "price": "200 ש''ח",
-      "readyAt": "may",
+      "readyAt": "now",
       "text": [
         "ארון בגדים תלייה 2 דלתות של איקאה",
         "גובה - 176 ס''מ",
@@ -247,7 +225,7 @@
       "title": "ארונית מגירות קטנה",
       "image":  "shida_1.png",
       "price": "150 ש''ח",
-      "readyAt": "may",
+      "readyAt": "now",
       "text": [
         "שולחן כתיבה/עבודה איקאה פינתי",
         "גובה - 69 ס''מ",
@@ -260,7 +238,7 @@
       "title": "ארונית מגירות גדולה איקאה",
       "image":  "MALM.jpg",
       "price": "200 ש''ח",
-      "readyAt": "may",
+      "readyAt": "now",
       "text": [
         "שידת מגירות גדולה דגם MALM",
         "גובה - 78 ס''מ",
@@ -282,18 +260,9 @@
       ]
     },
     {
-      "title": "מאדה ומעבד מזון לתינוקות",
-      "image":  "philips_avant_food_processor.png",
-      "price": "300 ש''ח",
-      "readyAt": "now",
-      "text": [
-        "מאדה ומעבד מזון של פיליפס אוונט"
-      ]
-    },
-    {
       "title": "שידת החתלה",
       "image":  "shida_baby.png",
-      "price": "700 ש''ח",
+      "price": "600 ש''ח",
       "readyAt": "now",
       "text": [
         "רהיטי טל",
@@ -313,12 +282,12 @@
       "link": "http://www.talbaby.co.il/items/1983287-%D7%9E%D7%99%D7%98%D7%94-%D7%93%D7%92%D7%9D-%D7%92%D7%9C"
     },
     {
-      "title": "גוגל הום מיני",
-      "image":  "google_home.png",
-      "price": "50 ש''ח ליחידה",
-      "readyAt": "now",
+      "title": "טלויזיה 40 אינצ",
+      "image":  "tv.jpg",
+      "price": "400 ש''ח",
+      "readyAt": "june",
       "text": [
-        "גוגל הום מיני"
+        "Samsung UA40J5000"
       ]
     }
   ]
