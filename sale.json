@@ -93,18 +93,6 @@
       ]
     },
     {
-      "title": "מיקרוגל LG",
-      "image": "microwave.png",
-      "price": "100 ש''ח",
-      "readyAt": "june",
-      "text": [
-        "מיקרוגל LG",
-        "רוחב 45 ס''מ",
-        "עומק 30 ס''מ",
-        "גובה 30 ס''מ"
-      ]
-    },
-    {
       "title": "מכונת כביסה 8 ק''ג",
       "image":  "washing_machine.jpg",
       "price": "1500 ש''ח",
