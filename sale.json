@@ -73,26 +73,6 @@
       ]
     },
     {
-      "title": "מכונת נספרסו + מקציף",
-      "image": "nespresso.png",
-      "price": "450 ש''ח",
-      "readyAt": "june",
-      "text": [
-        "מכונת נספרסו דגם פיקסי",
-        "צבע אדום",
-        "כולל מקציף חלב ארוצ'ינו"
-      ]
-    },
-    {
-      "title": "טוסטר צנימים פיילוט",
-      "image": "toaster.png",
-      "price": "20 ש''ח",
-      "readyAt": "june",
-      "text": [
-        "טוסטר צנימים רחב"
-      ]
-    },
-    {
       "title": "מכונת כביסה 8 ק''ג",
       "image":  "washing_machine.jpg",
       "price": "1500 ש''ח",
@@ -209,15 +189,6 @@
         "מיטת תינוק גדולה"
       ],
       "link": "http://www.talbaby.co.il/items/1983287-%D7%9E%D7%99%D7%98%D7%94-%D7%93%D7%92%D7%9D-%D7%92%D7%9C"
-    },
-    {
-      "title": "טלויזיה 40 אינצ",
-      "image":  "tv.jpg",
-      "price": "400 ש''ח",
-      "readyAt": "june",
-      "text": [
-        "Samsung UA40J5000"
-      ]
     }
   ]
 
