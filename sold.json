@@ -1,6 +1,17 @@
 {
   "items": [
     {
+      "title": "ריהוט מרפסת - איקאה",
+      "image": "balcony.jpg",
+      "price": "1500 ש''ח",
+      "readyAt": "now",
+      "text": [
+        "ריהוט מרפסת איקאה",
+        "סך הכל 6 מושבים"
+      ],
+      "link": "https://ikea.co.il/catalogue/Outdoor/Outdoor_lounge_furniture/39260940"
+    },
+    {
       "title": "משקאות אלכוהול",
       "image": "alcohol.png",
       "price": "80 ש''ח לבקבוק",
